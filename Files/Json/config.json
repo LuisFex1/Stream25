@@ -1,0 +1,16 @@
+{
+   "name": "Stream | Bot",
+   "prefijos": ["/"] ,
+   "path": "sesion",
+   "owner": [
+      {
+         "name": "Vy Svn",
+         "number": "33758693928"
+      } ,
+      {
+         "name": "Fex" ,
+         "number": "51960744787"
+      }
+      ],
+   "prefix" : true 
+}
